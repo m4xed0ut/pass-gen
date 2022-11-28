@@ -1,0 +1,5 @@
+The console app hides and runs in the background once opened. Pressing Enter generates a 16-char password made of random characters(upper and lower case letters, digits and various symbols) and pressing S stores the password in a text file (Pass.txt).
+#Fu*WCWDF)FL!Prt
+
+qXO*4bT(a^eQxo0h
+
