@@ -1,7 +1,0 @@
-C:\Users\ACER\source\repos\PassGen\PassGen\bin\Debug\PassGen.exe.config
-C:\Users\ACER\source\repos\PassGen\PassGen\bin\Debug\PassGen.exe
-C:\Users\ACER\source\repos\PassGen\PassGen\bin\Debug\PassGen.pdb
-C:\Users\ACER\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.AssemblyReference.cache
-C:\Users\ACER\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.CoreCompileInputs.cache
-C:\Users\ACER\source\repos\PassGen\PassGen\obj\Debug\PassGen.exe
-C:\Users\ACER\source\repos\PassGen\PassGen\obj\Debug\PassGen.pdb
