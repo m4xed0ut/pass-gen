@@ -1,5 +1,5 @@
 # pass-gen
-A console-based password generator that stores data in an encrypted file.
+A console-based password generator and manager that stores data in an encrypted file.
 
 
 
